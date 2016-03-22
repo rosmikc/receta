@@ -1,2 +1,2 @@
-recta = angular.module('recta', [
+receta = angular.module('receta', [
 ])
